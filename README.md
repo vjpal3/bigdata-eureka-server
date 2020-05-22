@@ -1,0 +1,2 @@
+### [Eureka Discovery Server](https://github.com/vjpal3/bigdata-eureka-server)
+  - Discovery Server using Netflix Eureka that allows microservices to register themselves at runtime as they appear in the system landscape
